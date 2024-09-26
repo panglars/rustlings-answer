@@ -1,4 +1,4 @@
-Finish 59/96 (61.5%) 
+Base Rustlings 5.6.0. Finish 81/96 (84.4 %)
 
 
 <div class="oranda-hide">
